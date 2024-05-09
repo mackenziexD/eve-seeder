@@ -1,5 +1,5 @@
 {
-    "name": "laravelevetools/eve-seeder",
+    "name": "helious/eve-seeder",
     "description": "EVE Online SDE seeders for Laravel Projects",
     "license": "GPL-2.0-or-later",
     "autoload": {
